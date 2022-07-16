@@ -1,0 +1,13 @@
+.navbarColor{
+    background-color: #22254b;
+}
+
+body{
+    background-color: #373b69;
+}
+
+.movie:hover {
+    opacity: 1;
+    color: blue;
+    transition: opacity 0.9s ease-in-out;
+}
